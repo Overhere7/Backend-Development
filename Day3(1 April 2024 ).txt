@@ -1,0 +1,31 @@
+What is get Api ? how does it work .
+Param - 1. Query Params 
+                       --------live exmaples 
+        2. Path Params 
+Passing Data from Postman 
+
+HTTP :                        ---------  ---------> https request  -----------> ---------
+                             | Browser |                                        | server |
+                              ---------  <--------- https response   <--------  --------- 
+IP --> Internet Protocol  address
+
+Get Api : ... it is an api or hhtp method cal ho rhaa hai to method process ho rhaa hai to api hai ... it is an API WHICH IS REQUESTED      throught hhtp get method to fetch or request some data from server .
+         but this will not manipulate any database information 
+
+Browser request 
+          http request '
+          headers 
+          body --> {
+            name : "Hello"
+          }
+
+Response --> json 
+              {
+                status : 'ok'
+              }
+
+command : ctrl + c ---> used to close seerver the again start server with node <file name > e colon laga hoga : 
+
+
+path param wo hai jsoke aag
+

@@ -1,0 +1,20 @@
+{
+  "name": "introduction",
+  "version": "1.0.0",
+  "description": "This is an introduction API for practicing API creation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Introduction",
+    "API",
+    "Testing"
+  ],
+  "author": "RishavTarway",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
+}

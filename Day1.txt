@@ -1,0 +1,37 @@
+1. What's After Backend ? : 
+WHAT is backend : ---> WE PERFORM CRUD OPERATION IN LOGICAL WAY 
+Node js is the backend framework  of js , js framework , use to maintain server 
+library particular feature deti hai
+framework - A to Z  
+
+backend : node js : Runtime environment 
+express js : use to create server 
+
+other technologies Backend 
+
+
+2. Introduction to Backend System 
+3. Introduction to API 
+4. Request and Response cycle using HTTP 
+5. INSTALLATION of  POSTMaN : testing tol for API 
+6 . api calling from postman : 
+7. Intro to JSON : JavScript object notation : lightweight data format in form of key value pairs jiski help se front aur backend ke beech mein data transfer hota hai familiar ot javascript object 
+
+Postman : backend ki api kaaam kar rhi nhi kar rhi check karne ka kaam postman karta hai 
+
+API : Application Programming Interface 
+
+
+nosql is a databse , ad mongodb is a datABSE  language 
+--------  Request  --------  Request  
+|Client |  ------ >  |  API  | ------ >   Server 
+--------            --------
+FRONTEND  <--------   Backend <--------  Databasbes 
+          Response            Response   
+
+Database : TOOL             
+
+
+
+
+                                   

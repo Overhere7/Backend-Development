@@ -1,0 +1,38 @@
+1. Post Api 
+2. Import vs Require 
+3. .js vs .mjs (.js = common javacript features support before 2015 but it wont support import to use imprt we use mjs )
+4. introduction to database 
+5. Sql vs NoSql
+6. introduction to mongoDB
+7. installation of compas and mongodb setup account 
+
+1. Post Api : to create new Data 
+
+
+2. Import    vs                  Require 
+     |                             |
+     modern                       old 
+     fast                    slow as compared to import 
+introduced after ES6         USED FROM older times 
+runs on modern node.js      support all versions 
+used in es6 js              used in coments 
+static                      dynamic 
+to use we use syntax : .mjs :     for this : .js : 
+(saare fetaurs es6 waale
+ available hot hain )
+
+
+3. 
+4. Database : collecton of data in organised format which cn manipulate by databse language ike sql , mongodb , etc 
+5. sql vs no sql : 
+sql -- > tabular format , (ii) verticvaslly scalable (adding more resources like RAM , stoarges , etc )
+noSql ---> json / document oriented / key value  (ii) hiorizontaly scallable (adding more servers )
+
+6. mongoDb : 
+                __________  ------------------------>  _________________
+                | Laptop |   \                        | MongoDB Server |  
+                ----------    \                        -----------------
+                               \ _________                    | (why we use it ?)
+                                | compass|                   database 
+                                _________                   connection 
+                                                                 verify 

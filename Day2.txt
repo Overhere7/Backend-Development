@@ -1,0 +1,37 @@
+1. What is Express.js ( overview )
+2. Router 
+3. MiddleWare (overview)
+4. Callback function 
+5. server creation
+6. Creating First API
+7. Calling API form Postman 
+
+* port is memory block where all the execution takes place 
+
+command to create file 
+mkdir "folder name "
+
+npm init - node package manager to initialize kardo 
+
+* init se node exply node application i itilize ho jayega 
+
+* package name : node application ka name 
+
+* description : detail about application 
+
+* Entry point / entry module : -  the file which is appicable to stsrtt hr application is call entry module or entry point in which code to start the server -- INDEX.JS , APP.JS , SERVER.JS 
+
+* test command :- when debugging stasrts test ommand comes in picture 
+
+* keywords : help in SEO
+
+
+* COMMAND : TOUCH  " file bname 
+ "-- HELPS TO CREATE FILES 
+
+ node modules : saari files ka description hai jo bhi express aur app ka details hai , node dependency files are in node modules 
+
+ package-lock.json : saari dependencies ka description hoti hai elaborated form mein store hoti hai 
+
+ package.json : sara metadata store hota hai , saari details about our application likhi hoti hai 
+

@@ -1,0 +1,14 @@
+                                      DataBase
+                                      --------- 
+CRUD operation in mongoDB
+create -> create insertMany()
+Read -> find() , findOne() , findById()
+Update -> updateOne() , updateMany(), findByIdAndUpdate()
+Delete -> deleteOne() , deleteMany(), findByIdAndDelete()
+
+
+DIFFERNECE BETWEEN FIND AND FINEone 
+find: without condition all data [{}]
+      --- find not found => []
+findOne -> null
+           withoutCondition 

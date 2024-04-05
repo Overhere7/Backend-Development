@@ -1,0 +1,19 @@
+{
+  "name": "sdms",
+  "version": "1.0.0",
+  "description": "This Application will handle the databse of fst students ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "database",
+    "fst"
+  ],
+  "author": "FST Students",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.3.0"
+  }
+}

@@ -1,0 +1,48 @@
+Index.js : --> 
+API CREATION 
+SERVER CODE 
+LIBRARIES
+
+
+Folder structure :-->
+
+|-nodeModules
+|- src 
+|    |- controller
+|    |     |
+|    |     |- APIs
+|    |     |
+|    |- models 
+|    |     |
+|    |     |-mongoDB schemas
+|    |     |
+|    |-Router 
+|    |     |
+|    |     |-routes.js
+|    |     |
+|    |-index.js
+-package.json
+
+            ------------------------------------------------------------------------------------ 
+            |                                                                                  |
+                                                                                               ^
+    CONTROLLER  <-------------------------------------- Models                             Routes 
+
+                                                                                              index.js 
+                                                                                              databse 
+                                                                                              sever global middleware 
+database connection  in : index.js 
+
+
+mongoose is the library used to connect with mongodb install ki taai conection provide kar sakre
+
+.connect method to connect with mogodb server se aapko conect karne ka kaam mongoose akrti hai express app ko mongodb se connect karne ka method connnect kar paaoge sever hai first parameter connection string hai compass ki 
+
+mongoose.connect methd aeks a promise iss tarah ka oproise hota hai to bhia jab connect ho jayega 
+.thrn(mein ek callbck fnction likhenge ek message denge agar succesfully establish hoga to .then wala callback function xecute ho jaywga to wo messagge display ho gya hai agar fail hota hai .catch karke method hai )
+
+
+mongoose.model('collectionName',schemaName, )
+    |          [ Database name ]
+   <^>
+   /\
